@@ -1,0 +1,4 @@
+services:
+  user_get_location.timezone:
+    class: Drupal\user_get_location\GetTimeFormTimeZoneService
+    arguments: []
