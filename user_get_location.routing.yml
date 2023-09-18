@@ -1,0 +1,7 @@
+user_get_location.admin_settings:
+  path: '/admin/config/user_get_location'
+  defaults:
+    _form: '\Drupal\user_get_location\Form\LocationConfigForm'
+    _title: 'location configuration screen'
+  requirements:
+    _permission: 'administer site configuration'
