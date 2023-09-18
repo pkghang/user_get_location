@@ -1,0 +1,6 @@
+name: User Location Insight
+description: Enhance Drupal with accurate user location detection and time zone management, compatible with Drupal 8,9 and 10.
+type: module
+core_version_requirement: ^8 || ^9 || ^10
+package: Custom
+
